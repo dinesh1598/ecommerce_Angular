@@ -1,0 +1,412 @@
+{
+    "earrings": [
+        {
+            "image":"https://thumbs.dreamstime.com/b/earrings-citrine-silver-dark-blue-velvet-48201246.jpg",
+            "price": "11000",
+            "discount":"10",
+            "name": "Earrings-citrine-silver-dark-blue-velvet",
+            "discription": "Description . . .  . .  . .  .",
+            "weight": "12",
+            "height_width": "82",
+            "material_type": "gold",
+            "id": 1
+        },
+        {
+            "image": "https://thumbs.dreamstime.com/b/beautiful-vintage-oriental-gold-turkish-jewelry-women-s-earrings-black-background-beautiful-oriental-gold-turkish-jewelry-101556212.jpg",
+            "price": "25000",
+            "discount":"10",
+            "name": "Beautiful-vintage-oriental-gold-turkish-jewelry-women",
+            "discription": "Description . . .  . .  . .  .",
+            "weight": "32",
+            "height_width": "56",
+            "material_type": "gold",
+            "id": 2
+        },
+        {
+            "image": "https://thumbs.dreamstime.com/b/hands-girl-wearing-pearl-earrings-woman-bride-french-manicure-98597481.jpg",
+            "price": "6000",
+            "discount":"10",
+            "name": "Hands-girl-wearing-pearl-earrings-woman-bride-french-manicure",
+            "discription": "Description . . .  . .  . .  .",
+            "weight": "12",
+            "height_width": "22",
+            "material_type": "gold",
+            "id": 3
+        },
+        {
+            "image": "https://thumbs.dreamstime.com/b/diamonds-earrings-isolated-diamonds-golden-butterfly-earrings-isolated-over-black-107010179.jpg",
+            "price": "300000",
+            "discount":"10",
+            "name": "Diamonds-golden-butterfly-earrings-isolate",
+            "discription": "Description . . .  . .  . .  .",
+            "weight": "56",
+            "height_width": "72",
+            "material_type": "gold",
+            "id": 4
+        },
+        {
+            "image": "https://thumbs.dreamstime.com/b/diamond-studded-earrings-jewellery-16221624.jpg",
+            "price": "80000",
+            "discount":"10",
+            "name": "Diamond-studded-earrings-jewellery",
+            "discription": "Description . . .  . .  . .  .",
+            "weight": "12",
+            "height_width": "12",
+            "material_type": "gold",
+            "id": 5
+        },
+        {
+            "image":"https://thumbs.dreamstime.com/b/feather-earrings-pheasant-cock-isolated-black-background-29991811.jpg",
+            "price": "12000",
+            "discount":"10",
+            "name": "Life Comes Full Circle Earrings in 925 Silver 6",
+            "discription": "Description . . .  . .  . .  .",
+            "weight": "93",
+            "height_width": "12",
+            "material_type": "gold",
+            "id": 6
+        },
+        {
+            "image": "https://thumbs.dreamstime.com/b/pear-diamonds-earrings-black-background-black-background-55729748.jpg",
+            "price": "50000",
+            "discount":"10",
+            "name": "pear-diamonds-earrings-black-background-black-background",
+            "discription": "Description .............",
+            "weight": "33",
+            "height_width": "59",
+            "material_type": "gold",
+            "id": 7
+        },
+        {
+            "image":" https://thumbs.dreamstime.com/b/handmade-polymer-clay-earrings-shape-flower-buds-isolated-white-background-handmade-polymer-clay-earrings-shape-181264978.jpg",
+            "price": "20864",
+            "discount":"10",
+            "name": "Lit All Day Earrings in Gold Plated 925 Silver 8",
+            "discription": "Description ........",
+            "weight": "12",
+            "height_width": "122",
+            "material_type": "gold",
+            "id": 8
+        },
+        {
+          "image": "https://thumbs.dreamstime.com/b/traditional-indian-peacock-earrings-jhumka-185462655.jpg",
+          "price": "112000",
+          "discount":"10",
+          "name": "Traditional-indian-peacock-earrings-jhumka",
+          "discription": "Description ........",
+          "weight": "13",
+          "height_width": "22",
+          "material_type": "gold",
+          "id": 9
+      }
+    ],
+    "rings": [
+        {
+            "image": "https://thumbs.dreamstime.com/b/wedding-rings-gold-19775043.jpg",
+            "price": "100000",
+            "discount":"10",
+            "name": "wedding-rings-gold",
+            "discription": "Description . . .  . .  . .  .",
+            "weight": "18",
+            "height_width": "34",
+            "material_type": "gold",
+            "id": 1
+        },
+        {
+            "image": "https://thumbs.dreamstime.com/b/wedding-rings-19772116.jpg",
+            "price": "200000",
+            "discount":"10",
+            "name": "wedding-rings-platinum",
+            "discription": "Description . . .  . .  . .  .",
+            "weight": "18",
+            "height_width": "34",
+            "material_type": "platinum",
+            "id": 2
+        },
+        {
+            "image": "https://thumbs.dreamstime.com/b/gold-rings-2378977.jpg",
+            "price": "40000",
+            "discount":"10",
+            "name": "gold-rings",
+            "discription": "Description . . .  . .  . .  .",
+            "weight": "18",
+            "height_width": "34",
+            "material_type": "gold",
+            "id": 3
+        },
+        {
+            "image": "https://thumbs.dreamstime.com/b/gold-rings-diamond-solitaire-37759303.jpg",
+            "price": "100000",
+            "discount":"10",
+            "name": "old-rings-diamond-solitaire",
+            "discription": "Description . . .  . .  . .  .",
+            "weight": "18",
+            "height_width": "34",
+            "material_type": "gold",
+            "id": 4
+        },
+        {
+            "image": "https://thumbs.dreamstime.com/b/white-yellow-gold-exclusive-wedding-rings-11319332.jpg",
+            "price": "6000",
+            "discount":"10",
+            "name": "white-yellow-gold-exclusive-wedding-rings",
+            "discription": "Description . . .  . .  . .  .",
+            "weight": "18",
+            "height_width": "34",
+            "material_type": "silver",
+            "id": 5
+        },
+        {
+            "image": "https://thumbs.dreamstime.com/b/love-loyalty-beautiful-wedding-rings-elegant-gold-background-scarlet-autumn-leaves-symbol-fidelity-60601826.jpg",
+            "price": "200000",
+            "discount":"10",
+            "name": "love-loyalty-beautiful-wedding-rings",
+            "discription": "Description . . .  . .  . .  .",
+            "weight": "18",
+            "height_width": "34",
+            "material_type": "gold",
+            "id": 6
+        },
+        {
+            "image": "https://thumbs.dreamstime.com/b/engagement-rings-17785243.jpg",
+            "price": "100",
+            "discount":"10",
+            "name": "engagement-rings",
+            "discription": "Description . . .  . .  . .  .",
+            "weight": "18",
+            "height_width": "34",
+            "material_type": "gold",
+            "id": 7
+        },
+        {
+            "image": "https://thumbs.dreamstime.com/b/wedding-bands-985180.jpg",
+            "price": "100",
+            "discount":"10",
+            "name": "modern-rings",
+            "discription": "Description . . .  . .  . .  .",
+            "weight": "18",
+            "height_width": "34",
+            "material_type": "gold",
+            "id": 8
+        }
+        ,
+
+          {
+            "image": "https://thumbs.dreamstime.com/b/wedding-rings-gold-19775043.jpg",
+            "price": "100000",
+            "discount":"10",
+            "name": "wedding-rings-gold",
+            "discription": "Description . . .  . .  . .  .",
+            "weight": "18",
+            "height_width": "34",
+            "material_type": "gold",
+            "id": 9
+        }
+
+
+    ],
+    "necklaces": [
+        {
+            "image": "https://thumbs.dreamstime.com/b/close-up-diamond-necklace-diamond-earrings-black-background-49079748.jpg",
+            "price": "200000",
+            "discount":"10",
+            "name": "close-up-diamond-necklace",
+            "discription": "Description . . .  . .  . .  .",
+            "weight": "52",
+            "height_width": "49",
+            "material_type": "gold",
+            "id": 1
+        },
+        {
+            "image": "https://thumbs.dreamstime.com/b/indian-gold-necklace-18946252.jpg",
+            "price": "50000",
+            "discount":"10",
+            "name": "indian-gold-necklace",
+            "discription": "Description . . .  . .  . .  .",
+            "weight": "52",
+            "height_width": "49",
+            "material_type": "gold",
+            "id": 2
+        },
+        {
+            "image": "https://thumbs.dreamstime.com/b/antique-gold-pendant-7313949.jpg",
+            "price": "800000",
+            "discount":"10",
+            "name": "antique-gold-pendant",
+            "discription": "Description . . .  . .  . .  .",
+            "weight": "85",
+            "height_width": "35",
+            "material_type": "gold",
+            "id": 3
+        },
+        {
+            "image": "https://thumbs.dreamstime.com/b/pearl-necklace-isolated-white-background-5983442.jpg",
+            "price": "100000",
+            "discount":"10",
+            "name": "pearl-necklace-isolated-white-background",
+            "discription": "Description . . .  . .  . .  .",
+            "weight": "29",
+            "height_width": "45",
+            "material_type": "perl",
+            "id": 4
+        },
+        {
+            "image": "https://thumbs.dreamstime.com/b/diamond-gold-jewelry-set-feather-background-60099464.jpg",
+            "price": "400000",
+            "discount":"10",
+            "name": "diamond-gold-jewelry-set-feather-background",
+            "discription": "Description . . .  . .  . .  .",
+            "weight": "45",
+            "height_width": "45",
+            "material_type": "silver",
+            "id": 5
+        },
+        {
+            "image": "https://thumbs.dreamstime.com/b/blue-topaz-necklace-teardrop-cut-diamonds-40691454.jpg",
+            "price": "60000000",
+            "discount":"10",
+            "name": "blue-topaz-necklace",
+            "discription": "Description . . .  . .  . .  .",
+            "weight": "44",
+            "height_width": "22",
+            "material_type": "Diamond",
+            "id": 6
+        },
+        {
+            "image": "https://thumbs.dreamstime.com/b/sparkling-diamond-necklace-684413.jpg",
+            "price": "20000",
+            "discount":"10",
+            "name": "sparkling-diamond-necklace",
+            "discription": "Description . . .  . .  . .  .",
+            "weight": "55",
+            "height_width": "29",
+            "material_type": "Diamond",
+            "id": 7
+        },
+        {
+            "image": "https://thumbs.dreamstime.com/b/diamond-necklace-display-4748151.jpg",
+            "price": "600000",
+            "discount":"10",
+            "name": "diamond-necklace with pearl",
+            "discription": "Description . . .  . .  . .  .",
+            "weight": "48",
+            "height_width": "45",
+            "material_type": "Diamond",
+            "id": 8
+        }
+
+        ,
+        {
+            "image": "https://thumbs.dreamstime.com/b/antique-gold-pendant-7313949.jpg",
+            "price": "800000",
+            "discount":"10",
+            "name": "antique-gold-pendant",
+            "discription": "Description . . .  . .  . .  .",
+            "weight": "85",
+            "height_width": "35",
+            "material_type": "gold",
+            "id": 9
+        }
+    ],
+    "bracelets": [
+        {
+            "image": "https://thumbs.dreamstime.com/b/wooden-bracelets-7079464.jpg",
+            "price": "3999",
+            "discount":"10",
+            "name": "wooden-bracelets-combo",
+            "discription": "Description . . .  . .  . .  .",
+            "weight": "15",
+            "height_width": "30",
+            "material_type": "wood",
+            "id": 1
+        },
+        {
+            "image": "https://thumbs.dreamstime.com/b/silver-bracelets-8763811.jpg",
+            "price": "4999",
+            "discount":"10",
+            "name": "silver-bracelets",
+            "discription": "Description . . .  . .  . .  .",
+            "weight": "34",
+            "height_width": "44",
+            "material_type": "silver",
+            "id": 2
+        },
+        {
+            "image": "https://thumbs.dreamstime.com/b/womens-jewelry-gold-bracelets-precious-stones-womens-jewelry-gold-bracelets-precious-stones-235758678.jpg",
+            "price": "9999",
+            "discount":"10",
+            "name": "gold-bracelets-precious-stones-womens",
+            "discription": "Description . . .  . .  . .  .",
+            "weight": "34",
+            "height_width": "44",
+            "material_type": "gold_dimond",
+            "id": 3
+        },
+        {
+            "image": "https://thumbs.dreamstime.com/b/indian-made-wedding-gold-bracelets-isolated-black-background-70862795.jpg",
+            "price": "9999",
+            "discount":"10",
+            "name": "indian-made-wedding-gold-bracelets",
+            "discription": "Description . . .  . .  . .  .",
+            "weight": "34",
+            "height_width": "44",
+            "material_type": "gold",
+            "id": 4
+        },
+        {
+            "image": "https://thumbs.dreamstime.com/b/gold-bracelets-jewelry-thai-people-unique-thainess-gold-bracelets-jewelry-thai-people-unique-158474628.jpg",
+            "price": "9999",
+            "discount":"10",
+            "name": "gold-bracelets-jewelry-thai-people-unique",
+            "discription": "Description . . .  . .  . .  .",
+            "weight": "34",
+            "height_width": "44",
+            "material_type": "gold",
+            "id": 5
+        },
+        {
+            "image": "https://thumbs.dreamstime.com/b/gold-bracelets-isolated-white-background-147571660.jpg",
+            "price": "8844",
+            "discount":"10",
+            "name": "gold-bracelets",
+            "discription": "Description . . .  . .  . .  .",
+            "weight": "34",
+            "height_width": "44",
+            "material_type": "gold",
+            "id": 6
+        },
+        {
+            "image": "https://thumbs.dreamstime.com/b/bracelets-4597889.jpg",
+            "price": "5989",
+            "discount":"10",
+            "name": " bracelets",
+            "discription": "Description *****************",
+            "weight": "34",
+            "height_width": "44",
+            "material_type": "plactic",
+            "id": 7
+        },
+        {
+            "image": "https://thumbs.dreamstime.com/b/ethnic-silver-bracelets-273911.jpg",
+            "price": "3444",
+            "discount":"10",
+            "name": "ethnic-silver-bracelets",
+            "discription": "Description *****************",
+            "weight": "34",
+            "height_width": "44",
+            "material_type": "silver",
+            "id": 8
+        },
+        {
+          "image": "https://thumbs.dreamstime.com/b/ethnic-silver-bracelets-273911.jpg",
+          "price": "3444",
+          "discount":"10",
+          "name": "ethnic-silver-bracelets",
+          "discription": "Description *****************",
+          "weight": "34",
+          "height_width": "44",
+          "material_type": "silver",
+          "id": 9
+      }
+    ]
+}
